@@ -1,0 +1,13 @@
+name: Inter_SeriaA
+title: Inter_SeriaA
+username:
+account: putu-saputra
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3231096
+bundleId: 3861794
+url: https://putu-saputra.shinyapps.io/Inter_SeriaA/
+when: 1605410895.58154
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_wrangling.R|inter_all_season.csv|seriea.csv|summary_all_team_final.csv
